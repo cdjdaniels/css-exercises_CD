@@ -1,5 +1,10 @@
 .class-a,
 .class-b {
-    color: #FFB6C1;
+    background-color: #FFB6C1;
     font-family: verdana, dejavu sans, san-serif;
 }
+
+.class-b {
+    font-size: 24px;
+}
+
