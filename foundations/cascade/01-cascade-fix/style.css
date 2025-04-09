@@ -20,10 +20,13 @@ body {
   font-weight: bold;
 } 
 
+.button {
+  font-size: 20px
+}
+
 .cancel {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
-  font-size: 20px;
 }
 
 .child {
