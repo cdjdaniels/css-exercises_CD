@@ -12,8 +12,9 @@ body {
   background: darkmagenta;
   color: white;
   font-weight: 900;
-  padding: 16px;
+  padding: 0 16px;
   font-size: 32px;
+  align-items: center;
 
 }
 
@@ -23,11 +24,15 @@ min-height: 75px;
   background: #eee;
   color: darkmagenta;
   text-align: center;
-  padding-top: 35px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .middle {
   display: flex;
+  flex: 1;
 }
 
 .sidebar {
